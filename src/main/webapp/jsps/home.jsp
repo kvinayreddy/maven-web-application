@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to ITCAPS LLC</h1>
-<h1 align="center"> Welcome to ITCAPS.......LIFE SUCKS. , GCP training is not fun.</h1>
+<h1 align="center"> Welcome to ITCAPS.......LIFE IS GREAT WITH WEBHOOKS. , GCP training is not fun.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -27,7 +27,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>ITCAPS - Consultant, Training, Development Center.</p>
+<p align=center>ITCAPS - Consultant, IT Professional Services.</p>
 <p align=center><small>Copyrights 2021 by <a href="http://itcaps.net/">ITCAPS LLC</a> </small></p>
 
 </body>
