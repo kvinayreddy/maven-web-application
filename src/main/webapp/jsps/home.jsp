@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>ITCAPS- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to ITCAPS LLC</h1>
-<h1 align="center"> Welcome to ITCAPS.......LIFE SUCKS. , This is a weekdays batch  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Welcome to ITCAPS.......LIFE SUCKS. , GCP training is not fun.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -27,7 +27,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>ITCAPS - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2021 by <a href="http://itcaps.net/">ITCAPS LLC</a> </small></p>
 
 </body>
