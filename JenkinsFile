@@ -24,6 +24,6 @@ node
     sh "scp -o StrictHostKeyChecking=no  target/maven-web-application.war tomcat@35.185.4.241:/opt/tomcat9/webapps"
      }
      */
-  }
+  
 }
    
