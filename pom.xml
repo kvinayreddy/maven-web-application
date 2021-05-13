@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ITCAPS Releases Nexus Repository</name>
-	      <url>http://34.74.213.210:8081/itcaps/repository/ITCAPS-RELEASE-MAY12/url>
+	      <url>http://34.74.213.210:8081/itcaps/repository/ITCAPS-RELEASE-MAY12/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
