@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ITCAPS Snapshot Nexus Repository </name>
+	      <name>ITCAPS SNAP-SHOT Nexus Repository </name>
 	      <url>http://35.243.180.243:8081/itcaps/repository/ITCAPS-SNAP-MAY12/</url>
 	    </snapshotRepository>
 	    
